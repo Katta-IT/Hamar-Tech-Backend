@@ -4,16 +4,13 @@
         "color":"#f00",
         "activities":[
             {
-                "name":"Game jam",
-                "description_url":"https://raw.githubusercontent.com/Katta-IT/Hamar-Tech-Backend/main/lars/desc/game_jam.txt"
+                "name":"Game jam"
             },
             {
-                "name":"No-communication development",
-                "description_url":"https://raw.githubusercontent.com/Katta-IT/Hamar-Tech-Backend/main/lars/desc/no-communication_development.txt"
+                "name":"No-communication development"
             },
             {
-                "name":"Tournament",
-                "description_url":"https://raw.githubusercontent.com/Katta-IT/Hamar-Tech-Backend/main/lars/desc/tournament.txt"
+                "name":"Tournament"
             }
         ]
     },
@@ -22,12 +19,10 @@
         "color":"#0f0",
         "activities":[
             {
-                "name":"Konsert",
-                "description_url":"https://raw.githubusercontent.com/Katta-IT/Hamar-Tech-Backend/main/lars/desc/konsert.txt"
+                "name":"Konsert"
             },
             {
-                "name":"Åpen scene",
-                "description_url":"https://raw.githubusercontent.com/Katta-IT/Hamar-Tech-Backend/main/lars/desc/apen_scene.txt"
+                "name":"Åpen scene"
             }
         ]
     }
