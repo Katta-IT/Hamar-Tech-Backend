@@ -1,0 +1,34 @@
+[
+    {
+        "name":"Konkurranse",
+        "color":"#f00",
+        "activities":[
+            {
+                "name":"Game jam",
+                "description_url":""
+            },
+            {
+                "name":"No-communication development",
+                "description_url":""
+            },
+            {
+                "name":"Tournament",
+                "description_url":""
+            }
+        ]
+    },
+    {
+        "name":"Fremvisning",
+        "color":"#0f0",
+        "activities":[
+            {
+                "name":"Konsert",
+                "description_url":""
+            },
+            {
+                "name":"Åpen scene",
+                "description_url":""
+            }
+        ]
+    }
+]
