@@ -1,7 +1,7 @@
 [
     {
         "name":"Konkurranse",
-        "color":"#f00",
+        "color":"#cc3757",
         "activities":[
             {
                 "name":"Game jam"
@@ -13,7 +13,7 @@
     },
     {
         "name":"Fremvisning",
-        "color":"#0f0",
+        "color":"#37cc5c",
         "activities":[
             {
                 "name":"Konsert"
